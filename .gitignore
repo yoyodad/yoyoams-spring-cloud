@@ -1,0 +1,13 @@
+
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.m2e.core.prefs
+yoyoams-spring-cloud-config/.classpath
+yoyoams-spring-cloud-config/.settings/org.eclipse.core.resources.prefs
+yoyoams-spring-cloud-config/.settings/org.eclipse.jdt.core.prefs
+yoyoams-spring-cloud-config/.settings/org.eclipse.m2e.core.prefs
+yoyoams-spring-cloud-config/target/classes/application.properties
+yoyoams-spring-cloud-config/target/classes/com/yoyoams/config/Application.class
+yoyoams-spring-cloud-config/target/classes/META-INF/MANIFEST.MF
+yoyoams-spring-cloud-config/target/classes/META-INF/maven/com.yoyoams/yoyoams-spring-cloud-config/pom.properties
+yoyoams-spring-cloud-config/target/classes/META-INF/maven/com.yoyoams/yoyoams-spring-cloud-config/pom.xml
