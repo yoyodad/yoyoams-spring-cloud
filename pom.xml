@@ -70,6 +70,6 @@
 	</build>
 
 	<modules>
-		<module>yoyoams-spring-cloud-config</module>
+		<module>yoyoams-spring-cloud-config-server</module>
 	</modules>
 </project>
